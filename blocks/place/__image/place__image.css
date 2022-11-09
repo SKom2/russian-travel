@@ -1,0 +1,7 @@
+.place__image{
+    object-fit: cover;
+    max-width: 100%;
+    grid-column: 1;
+    grid-row: 2;
+}
+
