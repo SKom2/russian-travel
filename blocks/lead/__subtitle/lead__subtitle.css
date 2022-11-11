@@ -35,11 +35,6 @@
 
 @media screen and (max-width: 320px) {
     .lead__subtitle{
-<<<<<<< HEAD
-        margin-top: 16px;
-        margin-bottom: 40px;
-=======
->>>>>>> feature
         font-size: 16px;
         line-height: 20px;
         max-width: 288px;
