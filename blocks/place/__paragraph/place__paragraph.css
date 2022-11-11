@@ -3,6 +3,13 @@
     grid-row: 2;
 }
 
+@media screen and (max-width: 426px) {
+    .place__paragraph{
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .place__paragraph{
         width: 288px;

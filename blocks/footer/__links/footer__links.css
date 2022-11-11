@@ -6,9 +6,10 @@
     flex-wrap: wrap;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 426px) {
     .footer__links{
         max-width: 158px;
         margin-bottom: 48px;
     }
 }
+
