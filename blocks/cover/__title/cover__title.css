@@ -7,9 +7,23 @@
     line-height: 76px;
 }
 
+@media screen and (max-width: 426px) {
+    .cover__title{
+        font-size: 47px;
+        line-height: 38px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .cover__title{
+        font-size: 40px;
+        line-height: 32px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .cover__title{
-        font-size: 32px;
+        font-size: 37px;
         line-height: 35px;
     }
 }

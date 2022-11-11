@@ -8,10 +8,21 @@
     grid-row: 1;
 }
 
+@media screen and (max-width: 720px) {
+    .place__website{
+        align-self: start;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .place__website{
+        margin-left: 24px;
+    }
+}
 
 @media screen and (max-width: 320px) {
     .place__website{
-        align-self: start;
+        padding-left: 0;
         width: 288px;
         margin: 0 auto;
     }

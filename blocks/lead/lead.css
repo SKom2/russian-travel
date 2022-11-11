@@ -1,21 +1,23 @@
 .lead{
     min-height: 406px;
-    padding-top: 56px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 56px 148px 0;
 }
 
-@media screen and (max-width: 1024x) {
+@media screen and (max-width: 1024px) {
     .lead{
         padding-top: 48px;
+        padding-left: 48px;
+        padding-right: 48px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .lead{
-        padding: 48px 0 0;
+        padding-left: 0;
+        padding-right: 0;
     }
 }
-

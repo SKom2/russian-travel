@@ -7,6 +7,39 @@
     font-size: 96px;
     line-height: 100px;
     text-align: center;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 720px) {
+    .lead__title{
+        font-size: 86px;
+        line-height: 70px;
+        min-height: 100px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .lead__title{
+        font-size: 60px;
+        line-height: 55px;
+        max-width: 440px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .lead__title{
+        font-size: 50px;
+        line-height: 50px;
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .lead__title{
+        font-size: 45px;
+        line-height: 46px;
+        max-width: 380px;
+    }
 }
 
 @media screen and (max-width: 320px) {
