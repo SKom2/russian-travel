@@ -46,27 +46,6 @@
 
 @media screen and (max-width: 600px) {
     .cover__link{
-        padding: 85px 80px;
-        min-height: 370px;
-    }
-}
-
-@media screen and (max-width: 530px) {
-    .cover__link{
-        padding: 73px 60px;
-        min-height: 335px;
-    }
-}
-
-@media screen and (max-width: 426px) {
-    .cover__link{
-        padding: 65px 46px;
-        min-height: 292px;
-    }
-}
-
-@media screen and (max-width: 376px) {
-    .cover__link{
         padding: 50px 30px;
         min-height: 250px;
     }
