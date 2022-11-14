@@ -45,7 +45,7 @@
 @media screen and (max-width: 920px) {
     .cover__link{
         padding: 160px 150px;
-        min-height: 530x;
+        min-height: 530px;
     }
 }
 
@@ -56,7 +56,7 @@
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 620px) {
     .cover__link{
         padding: 50px 30px;
         min-height: 250px;
